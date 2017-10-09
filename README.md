@@ -18,9 +18,13 @@ Run this in terminal : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercon
 ## Install [NVM](https://github.com/creationix/nvm)
 `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash`
 
+## Install XCode Command Line Tools Package
+`xcode-select --install`
+
+## Install [rbenv](https://github.com/rbenv/rbenv)
+`brew install rbenv`
+
 ## Install a powerline Compatible Font:
 - Such as Monoid: `http://larsenwork.com/monoid/`
 
 ## Install iterm2
-
-
